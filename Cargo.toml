@@ -1,0 +1,6 @@
+[package]
+name = "scompos"
+version = "0.1.0"
+authors = ["Mauro Scomparin <scompo@gmail.com>"]
+
+[dependencies]
